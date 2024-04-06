@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kefumo@mun.ca**
 
-- ⚡ Fun fact **I love challenging myself**
+- ⚡ Fun fact **I love Economics and Financial Markets as a way to understand how the world functions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
