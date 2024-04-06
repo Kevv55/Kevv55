@@ -25,3 +25,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevv55&show_icons=true&locale=en&layout=compact" alt="kevv55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevv55&show_icons=true&locale=en" alt="kevv55" /></p>
+
+Some projects I'd like to share with you:
+Have a look at my portfolio (it uses typescript as the frontend and NodeJS as the backend):
+https://github.com/Kevv55/folio.git
+
+Have a look a CNN machine I created that classifies clothes
+
+Have a look at an ML algorithm that uses a simple regression model to determine housing prices:
+
+Have a look a full stack budgetting website that uses Firebase and NodeJS as the backend
