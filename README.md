@@ -26,7 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevv55&show_icons=true&locale=en" alt="kevv55" /></p>
 
-Some projects I'd like to share with you:
+<h3 align="left">Some projects I'd like to share with you:</h3>
+
 Have a look at my portfolio (it uses typescript as the frontend and NodeJS as the backend):
 https://github.com/Kevv55/folio.git
 
