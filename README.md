@@ -34,6 +34,5 @@ https://github.com/Kevv55/folio.git
 Have a look a CNN machine I created that classifies clothes:
 https://github.com/Kevv55/classification_NN.git
 
-Have a look at an ML algorithm that uses a simple regression model to determine housing prices:
-
 Have a look a full stack budgetting website that uses Firebase and NodeJS as the backend:
+https://github.com/Kevv55/Budget_app/tree/main
