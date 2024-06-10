@@ -28,25 +28,21 @@
 
 <h3 align="left">Some projects I'd like to share with you:</h3>
 
-Portfolio website (it uses React typescript as the frontend and NodeJS as the backend):
-https://github.com/Kevv55/folio.git
+<p>Portfolio website (it uses React typescript as the frontend and NodeJS as the backend):</p>
+<p>https://github.com/Kevv55/folio.git</p>
+<p></p>
 
+<p>CNN model that classifies clothes:</p>
+<p>https://github.com/Kevv55/classification_NN.git</p>
+<p></p>
 
-CNN model that classifies clothes:
+<p>Notes app built on NextJS, hosted on AWS Amplify for SSR, using Amazon DynamoDB (NoSQL database):</p>
+<p>https://github.com/Kevv55/Trial-next-js</p>
+<p></p>
 
-https://github.com/Kevv55/classification_NN.git
+<p>Stock Market Web Application, performs API requests to multiple data providers to give users latest information about a company. Also uses Material UI for the theme and design:</p>
+<p>https://github.com/Kevv55/stockApp</p>
+<p></p>
 
-
-Notes app built on NextJS, hosted on AWS Amplify for SSR, using Amazon DynamoDB (NoSQL database):
-
-https://github.com/Kevv55/Trial-next-js
-
-
-Stock Market Web Application, performs API requests to multiple data providers to give users latest information about a company. Also uses Material UI for the theme and design:
-
-https://github.com/Kevv55/stockApp
-
-
-A budgetting webapp, built on react and uses Firebase and NodeJS as the backend:
-
-https://github.com/Kevv55/Budget_app/tree/main
+<p>A budgetting webapp, built on react and uses Firebase and NodeJS as the backend:</p>
+<p>https://github.com/Kevv55/Budget_app/tree/main</p>
