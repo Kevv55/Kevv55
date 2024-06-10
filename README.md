@@ -28,7 +28,7 @@
 
 <h3 align="left">Some projects I'd like to share with you:</h3>
 
-Portfolio website (it uses React typescript as the frontend and NodeJS as the backend):
+Portfolio website (it uses React typescript as the frontend and NodeJS as the backend): \n
 https://github.com/Kevv55/folio.git
 
 CNN model that classifies clothes:
