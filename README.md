@@ -28,11 +28,17 @@
 
 <h3 align="left">Some projects I'd like to share with you:</h3>
 
-Have a look at my portfolio (it uses typescript as the frontend and NodeJS as the backend):
+Portfolio website (it uses React typescript as the frontend and NodeJS as the backend):
 https://github.com/Kevv55/folio.git
 
-Have a look a CNN machine I created that classifies clothes:
+CNN model that classifies clothes:
 https://github.com/Kevv55/classification_NN.git
+
+Notes app built on NextJS, hosted on AWS Amplify for SSR, using Amazon DynamoDB (NoSQL database):
+https://github.com/Kevv55/Trial-next-js
+
+Stock Market Web Application, performs API requests to multiple data providers to give users latest information about a company. Also uses Material UI for the theme and design:
+https://github.com/Kevv55/stockApp
 
 Have a look a full stack budgetting website that uses Firebase and NodeJS as the backend:
 https://github.com/Kevv55/Budget_app/tree/main
