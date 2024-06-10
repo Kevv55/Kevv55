@@ -29,7 +29,7 @@
 <h3 align="left">Some projects I'd like to share with you:</h3>
 
 <p>Portfolio website (it uses React typescript as the frontend and NodeJS as the backend):</p>
-<p>https://github.com/Kevv55/folio.git</p>
+https://github.com/Kevv55/folio.git
 <p></p>
 
 <p>CNN model that classifies clothes:</p>
